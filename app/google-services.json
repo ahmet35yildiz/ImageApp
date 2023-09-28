@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "49065764444",
+    "firebase_url": "https://imageapp-c4097-default-rtdb.firebaseio.com",
+    "project_id": "imageapp-c4097",
+    "storage_bucket": "imageapp-c4097.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49065764444:android:061e5975fae1faf7016899",
+        "android_client_info": {
+          "package_name": "com.amttech.imageapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk0n9q-8PczSwvAO-3ZcQ8DTpoJrANMso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
